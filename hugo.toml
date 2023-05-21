@@ -1,0 +1,26 @@
+baseURL = 'http://example.org/'
+languageCode = 'fi-fi'
+theme = 'hugo-bearblog'
+title = 'Antin weblog'
+author = 'Antti Ajanki'
+copyright = 'Copyright © 2023, Antti Ajanki.'
+enableRobotsTXT = true
+rssLimit = 20
+
+[params]
+  # The "description" of your website. This is used in the meta data of your generated html.
+  #description = "Hugo + Bear = :heart:"
+
+  # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
+  # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
+  #favicon = "images/favicon.png"
+
+  # These "images" are used for the structured data templates. This will show up, when
+  # services like Twitter or Slack want to generate a preview of a link to your site.
+  # See https://gohugo.io/templates/internal#twitter-cards and
+  # https://gohugo.io/templates/internal#open-graph.
+  #images = ["images/share.png"]
+
+  title = "Antin weblog"
+
+  dateFormat = "2.1.2006"
