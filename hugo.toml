@@ -1,7 +1,7 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://bittientakana.blog/'
 languageCode = 'fi-fi'
 theme = 'hugo-bearblog'
-title = 'Antin weblog'
+title = 'Bittien takana'
 author = 'Antti Ajanki'
 copyright = 'Copyright © 2023, Antti Ajanki.'
 enableRobotsTXT = true
@@ -21,6 +21,6 @@ rssLimit = 20
   # https://gohugo.io/templates/internal#open-graph.
   #images = ["images/share.png"]
 
-  title = "Antin weblog"
+  title = "Bittien takana"
 
   dateFormat = "2.1.2006"
