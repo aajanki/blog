@@ -4,3 +4,10 @@
 
 [build.environment]
   HUGO_VERSION = "v0.111.3"
+
+[context.staging]
+  command = "hugo"
+  publish = "public"
+
+[context.staging.environment]
+  HUGO_VERSION = "v0.111.3"
