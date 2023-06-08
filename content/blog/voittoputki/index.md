@@ -3,7 +3,6 @@ title: "Voittoputken pituus"
 date: 2023-06-08T19:36:04+03:00
 description: Jos heitän kolikkoa kymmenen kertaa, kuinka monta peräkkäistä kruunaa saan? Simuloin voittoputken odotettua pituutta laskennallisesti.
 tags: []
-draft: true
 ---
 
 Jos heitän kolikkoa kymmenen kertaa, kuinka monta peräkkäistä kruunaa saan? Voi tulla monta kruunaa ennen kuin klaava katkaisee putken tai mahdollisesti joka toinen heitto on kruuna ja joka toinen klaava, jolloin pisin kruunaputki olisi vain yhden heiton pituinen.
