@@ -6,7 +6,7 @@
   HUGO_VERSION = "v0.111.3"
 
 [context.staging]
-  command = "hugo"
+  command = "hugo --buildDrafts"
   publish = "public"
 
 [context.staging.environment]
