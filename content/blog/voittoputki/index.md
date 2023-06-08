@@ -1,6 +1,6 @@
 ---
 title: "Voittoputken pituus"
-date: 2023-06-03T20:27:15+03:00
+date: 2023-06-08T19:36:04+03:00
 description: Jos heitän kolikkoa kymmenen kertaa, kuinka monta peräkkäistä kruunaa saan? Simuloin voittoputken odotettua pituutta laskennallisesti.
 tags: []
 draft: true
