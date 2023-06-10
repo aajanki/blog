@@ -2,10 +2,12 @@ baseURL = 'http://bittientakana.blog/'
 languageCode = 'fi-fi'
 theme = 'hugo-bearblog'
 title = 'Bittien takana'
-author = 'Antti Ajanki'
-copyright = 'Copyright © 2023, Antti Ajanki.'
 enableRobotsTXT = true
 rssLimit = 20
+
+[author]
+  name = "Antti Ajanki"
+  email = "antti.ajanki@iki.fi"
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
