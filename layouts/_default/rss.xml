@@ -1,11 +1,11 @@
-{{- $pctx := . -}}
-{{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
+{{- $pctx := .Site -}}
 {{- $pages := slice -}}
 {{- if or $.IsHome $.IsSection -}}
 {{- $pages = $pctx.RegularPages -}}
 {{- else -}}
 {{- $pages = $pctx.Pages -}}
 {{- end -}}
+{{ $pages = where $pages "Section" "blog" }}
 {{- $limit := .Site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}
 {{- $pages = $pages | first $limit -}}
