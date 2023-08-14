@@ -1,6 +1,7 @@
 ---
 title: "Ääkköset verkkotunnuksissa"
 date: 2023-06-17T20:49:03+03:00
+tags: ["verkkoteknologiat"]
 ---
 
 Verkkotunnuksissa on mahdollista käyttää ääkkösiä. Esimerkiksi Jämsän kaupungin nettisivut löytyvät osoitteesta [www.jämsä.fi](https://www.jämsä.fi) (vaikkakin osoite on vain ohjaus rinnakkaisosoitteeseen [www.jamsa.fi](https://www.jamsa.fi)). Kovin ahkerassa käytössä ääkköselliset verkko-osoitteet eivät ole vaikka [ääkköset fi-päätteisissä verkkotunnuksissa otettiin käyttöön jo vuonna 2005](https://yle.fi/a/3-5218594).

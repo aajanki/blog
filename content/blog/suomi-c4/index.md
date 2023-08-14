@@ -2,7 +2,7 @@
 title = "Suomenkielisen webbiaineiston analysointia"
 date = "2023-05-21T17:09:32+03:00"
 description = "Analysoin verkkosivuja kokoavan C4-aineiston suomenkielistä sisältöä"
-tags = []
+tags = ["kieliteknologia"]
 +++
 
 ## Tekoäly oppii vain sen mitä opetusaineistossa on

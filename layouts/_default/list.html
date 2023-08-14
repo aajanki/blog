@@ -1,6 +1,11 @@
 {{ define "main" }}
-{{ with .GetPage `/blog` }}
 <content>
+  {{ if .Data.Singular }}
+  <h3 style="margin-bottom:0">Aiheeseen "{{ .Title }}" liittyvät artikkelit</h3>
+  <small>
+    <a href="{{ "blog" | relURL }}">Poista suodatin</a>
+  </small>
+  {{ end }}
   <ul class="blog-posts">
     {{ range .Pages }}
     <li>
@@ -20,5 +25,4 @@
     {{ end }}
   </ul>
 </content>
-{{ end }}
 {{ end }}

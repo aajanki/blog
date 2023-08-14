@@ -1,7 +1,7 @@
 ---
 title: "Tekstin ymmärrettävyyden mittaaminen"
 date: 2023-08-13T18:14:46+03:00
-tags: []
+tags: ["kieliteknologia"]
 ---
 
 Viestin perillemenoon vaikuttaa oleellisesti sen muotoilu. Selkeästi ilmaistu viesti ymmärretään helpommin ja jää paremmin mieleen.

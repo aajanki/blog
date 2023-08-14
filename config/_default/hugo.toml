@@ -9,6 +9,9 @@ rssLimit = 20
   name = "Antti Ajanki"
   email = "antti.ajanki@iki.fi"
 
+[taxonomies]
+  tag = 'tags'
+
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
   #description = "Hugo + Bear = :heart:"

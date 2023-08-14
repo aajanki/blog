@@ -1,7 +1,7 @@
 ---
 title: "Hämäävät merkit verkkotunnuksissa"
 date: 2023-07-10T14:42:19+03:00
-# tags: []
+tags: ["verkkoteknologiat"]
 ---
 
 Tuki kansallisten kirjainten käytölle verkkotunnuksissa sallii ääkkösiä sisältävät osoitteet kuten [sää.fi](https://xn--s-0faa.fi), mutta samalla avautuu aukko verkkohuijareille. Kirjoitin [edellisessä blogipostauksessa miten kansallisten kirjainten käyttö toimii teknisesti](/blog/ääkköset_verkkotunnuksissa/). Tässä kirjoituksessa kerron miten huijarit voivat luoda hämääviä osoitteita käyttämällä helposti keskenään sekoittuvia kirjaimia.
