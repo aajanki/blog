@@ -2,6 +2,7 @@
 title: "Hakukoneet ymmärtävät sanojen taivutusmuotoja perusmuotoistamisen ansiosta"
 date: 2023-09-05T21:12:46+03:00
 tags: ["kieliteknologia", "tiedonhaku"]
+banner: "hakusanojen_perusmuotoistaminen.png"
 ---
 
 Hyvän hakukoneen pitää ymmärtää sanojen taivutukset ja johdokset. Jos haen hakusanoilla "ravintola Tampere", haluan saada hakutuloksiin mukaan myös sivun, jossa lukee "Tampereen parhaat ravintolat" vaikka kumpikaan hakusanoista ei esiinny sivun tekstissä sellaisenaan. Hakukoneissa taivutusmuodot käsitellään yleensä muuntamalla kaikki sanat ohjelmallisesti perusmuotoihinsa ennen vertailua. Perusmuotoistamisesta on hyötyä hakukoneiden lisäksi myös muissa sovelluksissa.
