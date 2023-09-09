@@ -1,4 +1,4 @@
-baseURL = 'http://bittientakana.blog/'
+baseURL = 'https://bittientakana.blog/'
 languageCode = 'fi-fi'
 theme = 'hugo-bearblog'
 title = 'Bittien takana'
