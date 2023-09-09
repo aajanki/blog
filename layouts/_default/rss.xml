@@ -33,10 +33,10 @@
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Summary | html }}</description>
       <content:encoded>{{ printf "<![CDATA[%s]]>" .Content | safeHTML }}</content:encoded>
-      {{ with .Resources.GetMatch .Params.banner }}
+      {{- with .Resources.GetMatch .Params.banner }}
       <media:content type="{{ .MediaType.Type }}" medium="{{ .MediaType.MainType }}" url="{{ .Permalink }}" />
-      {{ end }}
+      {{- end }}
     </item>
-    {{ end }}
+    {{- end }}
   </channel>
 </rss>
