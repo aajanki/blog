@@ -3,11 +3,13 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "v0.111.3"
+  GO_VERSION = "go1.21.1"
+  HUGO_VERSION = "v0.113.0"
 
 [context.staging]
   command = "hugo --environment staging --buildDrafts"
   publish = "public"
 
 [context.staging.environment]
-  HUGO_VERSION = "v0.111.3"
+  GO_VERSION = "go1.21.1"
+  HUGO_VERSION = "v0.113.0"
