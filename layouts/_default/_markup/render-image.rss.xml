@@ -1,0 +1,1 @@
+<img src="{{ urls.JoinPath .Page.Permalink .Destination }}" alt="{{ .Text }}" {{ with .Title }} title="{{ . }}"{{ end }} />
