@@ -9,7 +9,7 @@ git submodule init
 git submodule update
 ```
 
-## UUsi blogipostaus
+## Uusi blogipostaus
 
 ```
 hugo new content content/blog/otsikko/index.md
