@@ -2,7 +2,6 @@
 title: "Diagnostiikan kerääminen OpenTelemetryllä Googlen pilvifunktioissa"
 date: 2024-10-15T20:59:33+03:00
 tags: ["ohjelmointi"]
-draft: true
 ---
 
 Vianselvityksessä on tärkeää nähdä mahdollisimman paljon tietoa siitä, mitä sovellus teki virheen sattuessa. Tämä postaus kertoo miten Googlen pilvifunktiossa pyörivän Node.js-softan toimintaa voi seurata OpenTelemetry-työkaluilla ja mitä tietoja niillä on mahdollista kerätä.
